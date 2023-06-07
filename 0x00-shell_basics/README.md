@@ -9,3 +9,4 @@ Moving a file betty to a subdirectory my first directory in tmp directory.
 Deleting the file betty.
 Deleting the directory named my first directory in tmp directory.
 Changing the working directory to the previous one.
+Lists all files including hidden files in the current directory, parent directory and the boot directory in long format.
