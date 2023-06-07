@@ -10,3 +10,4 @@ Deleting the file betty.
 Deleting the directory named my first directory in tmp directory.
 Changing the working directory to the previous one.
 Lists all files including hidden files in the current directory, parent directory and the boot directory in long format.
+Command that prints the type of the file named iamafile.
