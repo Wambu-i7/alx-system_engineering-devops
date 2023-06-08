@@ -8,4 +8,5 @@ A script that adds execute permission to the owner and the group owner, and read
 A script that gives all the permissions to other users only.
 A script that sets the mode of the file hello to -rwxr-x-wx.
 A script that sets the mode of the file hello the same as olleh’s mode.
-A script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. 
+A script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users.
+A script that creates a directory called my dir with permissions 751 in the working directory. 
