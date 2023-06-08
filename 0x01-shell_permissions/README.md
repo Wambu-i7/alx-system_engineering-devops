@@ -6,4 +6,5 @@ A script that creates an empty file called hello.
 Add execution permission to the owner of the file hello.
 A script that adds execute permission to the owner and the group owner, and read permission to other users, to the file hello.
 A script that gives all the permissions to other users only.
-A script that sets the mode of the file hello to -rwxr-x-wx. 
+A script that sets the mode of the file hello to -rwxr-x-wx.
+A script that sets the mode of the file hello the same as olleh’s mode. 
