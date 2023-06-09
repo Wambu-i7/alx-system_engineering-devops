@@ -13,3 +13,4 @@ Lists all files including hidden files in the current directory, parent director
 Command that prints the type of the file named iamafile.
 Creating  symbolic link to /bin/ls,named _ls_.
 Copying HTML files.
+Moving all uppercase files to /tmp/u.
