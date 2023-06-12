@@ -1,0 +1,2 @@
+#!/bin/bash
+find . \( -type d -name'.*' -o -type d ! -name '.' \) -print |wc -l

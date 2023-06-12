@@ -9,3 +9,4 @@ A script that creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:
 A script that writes the result of a command in a file.
 Duplicating the last line of a file.
 Removing all files with a .js extension.
+A script that counts all directories and subdirectories in a current directory.
