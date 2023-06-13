@@ -7,3 +7,4 @@ A script that all local variables and environment variables, and functions.
 Creating a new local variable.
 Creating a new global variable.
 Adding a variables. Arithmetic expression.
+Dividing variables.
