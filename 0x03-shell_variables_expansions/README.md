@@ -12,3 +12,4 @@ Exponent variables **.
 Convert a number to base.
 Print all possible combinations of letters a-z excluding oo.
 Printing a number with two decimal places.
+Decimal to hexadecimal.
