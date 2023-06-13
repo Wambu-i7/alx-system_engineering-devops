@@ -9,3 +9,4 @@ Creating a new global variable.
 Adding a variables. Arithmetic expression.
 Dividing variables.
 Exponent variables **.
+Convert a number to base.
