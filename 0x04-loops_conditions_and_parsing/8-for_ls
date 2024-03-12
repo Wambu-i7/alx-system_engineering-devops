@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+# This script is displaying "Best School" 10 times
+for file in *; do
+    if [ ! -d "$file" ] && [[ "$file" != .* ]]; then
+        part_after_dash=$(echo "$file" | cut -d'-' -f2-)
+        echo "$part_after_dash"
+    fi
+done
