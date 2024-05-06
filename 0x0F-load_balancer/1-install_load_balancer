@@ -16,8 +16,8 @@ frontend ndikiru-frontend
         default_backend ndikiru-backend
 backend ndikiru-backend
         balance roundrobin
-        server 439291-web-01 35.175.134.249:80 check
-        server 439291-web-02 35.175.135.205:80 check
+        server 439291-web-01 18.234.80.178:80 check
+        server 439291-web-02 34.201.174.34:80 check
 "
 echo "$server_config" | sudo tee -a /etc/haproxy/haproxy.cfg
 
